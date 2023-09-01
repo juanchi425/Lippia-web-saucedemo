@@ -14,7 +14,7 @@ https://www.saucedemo.com/
 ###### Remplazamos @Login por el Tag que hemos copiado y guardamos los cambios.
 ###### Paso 5: Volvemos a nuestro feature y ejecutamos la prueba.
 
-### Pasos para Visualizar Reportei
+### Pasos para Visualizar Reportes
 ###### 1: Nos dirigimos al archivo "Target" y luego al archivo "extent-reports" 
 ###### 2: seleccionamos el archivo index.html y lo abrimos con el navegador
 
